@@ -29,7 +29,7 @@ This project uses a Raspberry Pi to implemente a Theft Detection System over a C
 * [SimpleCV](http://simplecv.org/) - For image math and comparison
 
 ## Demonstration
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=uYGOCEKzvzU&feature=youtu.be)
+[![IMAGE ALT TEXT HERE](https://i.gyazo.com/b10ca03759024acad1e69eb6c167c56c.png)](https://www.youtube.com/watch?v=uYGOCEKzvzU&feature=youtu.be)
 
 ## Authors
 
