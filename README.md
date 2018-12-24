@@ -1,6 +1,6 @@
 # Theft Detection System 
 
-This project uses a Raspberry Pi to implemente a Theft Detection System over a CoAP server.
+Final Project for CSCI 43300 - Internet Of Things (Spring'18). This project uses a Raspberry Pi to implemente a Theft Detection System over a CoAP server.
 
 ## Objective
 
@@ -29,7 +29,7 @@ This project uses a Raspberry Pi to implemente a Theft Detection System over a C
 * [SimpleCV](http://simplecv.org/) - For image math and comparison
 
 ## Demonstration
-[![IMAGE ALT TEXT HERE](https://i.gyazo.com/b10ca03759024acad1e69eb6c167c56c.png)](https://www.youtube.com/watch?v=uYGOCEKzvzU&feature=youtu.be)
+[![Link](https://i.gyazo.com/b10ca03759024acad1e69eb6c167c56c.png)](https://www.youtube.com/watch?v=uYGOCEKzvzU&feature=youtu.be)
 
 ## Authors
 
