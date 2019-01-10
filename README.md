@@ -1,6 +1,6 @@
 # Theft Detection System 
 
-Final Project for CSCI 43300 - Internet Of Things (Spring'18). This project uses a Raspberry Pi to implemente a Theft Detection System over a CoAP server.
+Final Project for CSCI 43300 - Internet Of Things (Spring'18). This project uses a Raspberry Pi to implement a Theft Detection System over a CoAP server.
 
 ## Objective
 
