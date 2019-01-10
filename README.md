@@ -15,9 +15,9 @@ Final Project for CSCI 43300 - Internet Of Things (Spring'18). This project uses
 
 [![Image from Gyazo](https://i.gyazo.com/d7289e3a56fdc7bc7c7f543573394169.png)](https://gyazo.com/d7289e3a56fdc7bc7c7f543573394169)
 
-## R Pi Modules Used
+## Raspberry Pi Modules Used
 
-- R Pi Camera 
+- Raspberry Pi Camera Module
 - Active Buzzer
 - LED 
 
